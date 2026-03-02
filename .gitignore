@@ -1,0 +1,16 @@
+# Datasets
+*.csv
+*.json
+*.dat
+*.xlsx
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python & Environments
+__pycache__/
+venv/
+
+# Machine Learning Saved Models
+*.pkl
+*.joblib
